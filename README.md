@@ -25,12 +25,12 @@ Ensure you have the following installed on your system:
 ## Project Structure
 
 ##Backend setup
-cd backend
-npm install
-PORT=5000
-MONGODB_URI=your-mongodb-uri
-SECRET_KEY=your-secret-key
-npm start
+cd backend   
+npm install   
+PORT=5000   
+MONGODB_URI=your-mongodb-uri   
+SECRET_KEY=your-secret-key  
+npm start  
 
 ##Frontend Setup
 cd client
