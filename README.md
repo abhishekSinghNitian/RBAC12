@@ -33,10 +33,10 @@ SECRET_KEY=your-secret-key
 npm start  
 
 ##Frontend Setup
-cd client
-npm install
-npm run dev
-Admin Credentials
+cd client    
+npm install   
+npm run dev    
+Admin Credentials    
 
 Use the following credentials to log in as an Admin:
 
